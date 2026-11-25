@@ -1,0 +1,10 @@
+msfadmin
+root
+admin
+user
+guest
+test
+administrator
+deploy
+ubuntu
+oracle

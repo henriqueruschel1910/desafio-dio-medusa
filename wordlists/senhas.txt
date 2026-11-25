@@ -1,0 +1,12 @@
+msfadmin
+password
+123456
+admin
+root
+toor
+test
+guest
+qwerty
+letmein
+12345678
+vulnerable

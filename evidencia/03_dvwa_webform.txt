@@ -1,0 +1,14 @@
+ERROR: The answer was NOT successfully received, understood, and accepted while trying msfadmin root: error code  302
+ERROR: The answer was NOT successfully received, understood, and accepted while trying msfadmin admin: error code  302
+ERROR: The answer was NOT successfully received, understood, and accepted while trying msfadmin 123456: error code  302
+ERROR: The answer was NOT successfully received, understood, and accepted while trying msfadmin msfadmin: error code  302
+ERROR: The answer was NOT successfully received, understood, and accepted while trying msfadmin password: error code  302
+ERROR: The answer was NOT successfully received, understood, and accepted while trying msfadmin toor: error code  302
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+2026-11-25 12:56:16 ACCOUNT CHECK: [web-form] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 0 complete) Password: root (1 of 12 complete)
+2026-11-25 12:56:16 ACCOUNT CHECK: [web-form] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 0 complete) Password: admin (2 of 12 complete)
+2026-11-25 12:56:16 ACCOUNT CHECK: [web-form] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 0 complete) Password: 123456 (3 of 12 complete)
+2026-11-25 12:56:16 ACCOUNT CHECK: [web-form] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 0 complete) Password: msfadmin (4 of 12 complete)
+2026-11-25 12:56:16 ACCOUNT CHECK: [web-form] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 0 complete) Password: password (5 of 12 complete)
+2026-11-25 12:56:16 ACCOUNT CHECK: [web-form] Host: 172.17.54.106 (1 of 1, 0 complete) User: msfadmin (1 of 10, 0 complete) Password: toor (6 of 12 complete)

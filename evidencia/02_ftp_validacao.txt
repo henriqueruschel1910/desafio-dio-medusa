@@ -1,0 +1,12 @@
+Connected to 172.17.54.106.
+220 (vsFTPd 2.3.4)
+331 Please specify the password.
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+Remote directory: /home/msfadmin
+229 Entering Extended Passive Mode (|||57656|).
+150 Here comes the directory listing.
+drwxr-xr-x    6 1000     1000         4096 Apr 28  2010 vulnerable
+226 Directory send OK.
+221 Goodbye.
